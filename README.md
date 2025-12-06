@@ -1,6 +1,7 @@
 # Assignment 1 — AI Engineering (IEORE4574)
 
 This repository contains my submission for **Assignment 1** of **IEORE4574: AI Engineering**.
+Student: ChengHsin Chang/cc5211
 
 ---
 
